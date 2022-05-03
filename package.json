@@ -1,0 +1,16 @@
+{
+  "name": "rules-nodejs-supports-workers-issue",
+  "private": true,
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "bazel build //..."
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@bazel/typescript": "^5.4.0",
+    "typescript": "^4.6.2"
+  }
+}
